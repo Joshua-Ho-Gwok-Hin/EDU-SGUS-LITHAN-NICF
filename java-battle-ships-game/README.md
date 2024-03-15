@@ -1,8 +1,8 @@
 # BattleShipGame.java - Battle Ships Game Java Program Coding Project Assignment 
 
 Visit java source code link to download: 
-- <a href="https://github.com/Joshua-Ho-Gwok-Hin/Mini-Project-Battle-Ships/blob/main/BattleShipGame.java">BattleShipGame.java</a>
-- <a href="https://github.com/Joshua-Ho-Gwok-Hin/Mini-Project-Battle-Ships/blob/main/BattleShipGame.java">Battle Ship Game Java</a>
+- <a href="https://github.com/Joshua-Ho-Gwok-Hin/EDU-SGUS-LITHAN-NICF/blob/main/java-battle-ships-game/BattleShipGame.java">BattleShipGame.java</a>
+- <a href="https://github.com/Joshua-Ho-Gwok-Hin/EDU-SGUS-LITHAN-NICF/tree/main/java-battle-ships-game">Battle Ship Game Java</a>
 
 
 
